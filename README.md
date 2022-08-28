@@ -1,2 +1,2 @@
 # Data-Analysis
-Data analysis tasks on Python as part of my undergraduate physics course 
+Data analysis tasks in Python that formed part of my undergraduate physics course 
